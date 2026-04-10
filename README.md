@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1500&color=55FF55&center=true&vCenter=true&width=500&lines=Welcome+to+My+Realm;PAKO+SERUMOLA;⛏+Always+Mining+for+New+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=55FF55&center=true&vCenter=true&width=500&lines=Welcome+to+My+Realm;PAKO+SERUMOLA;%E2%9B%8F+Always+Mining+for+New+Skills" alt="Typing SVG" />
 </p>
 
 <br/>
