@@ -23,7 +23,7 @@
 </p>
 
 ```
-> Name:        PAKO SERUMOLA SERUMOLA
+> Name:        PAKO BENSON LEFIKA SERUMOLA 
 > Bio:         🤑 deranged
 > Class:       Developer
 > Current:     Building cool stuff with JavaScript
