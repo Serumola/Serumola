@@ -45,6 +45,8 @@ player:
   status: "Online ⚡"
 ```
 
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 </td>
     <td width="40%" align="center" valign="middle">
 
