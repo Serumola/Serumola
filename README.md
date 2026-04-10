@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&duration=3000&color=55FF55&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=%E2%9B%8F+Welcome+to+My+Realm!;PAKO+SERUMOLA+SERUMOLA" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&duration=3000&color=55FF55&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=%E2%9B%8F+Welcome+to+My+Realm!;PAKO+BENSON+LEFIKA+SERUMOLA" alt="Welcome Banner" />
 </p>
 
 <p align="center">
