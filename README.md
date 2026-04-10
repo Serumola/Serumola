@@ -127,11 +127,12 @@ player:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serumola&show_icons=true&title_color=55FF55&icon_color=FFAA00&text_color=88CC88&bg_color=0D111700&hide_border=true&rank_icon=github&custom_title=⛏+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serumola&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serumola&layout=compact&title_color=55FF55&text_color=88CC88&bg_color=0D111700&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serumola&theme=github_dark" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Serumola&theme=github_dark" alt="Productive Time" />
 </p>
 
 <p align="center">
