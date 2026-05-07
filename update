@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with timestamp
+        run: |
+          echo "Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > temp.txt
+          cat temp.txt README.md > temp2.txt
+          mv temp2.txt README.md
+          rm temp.txt
+
+      - name: Auto commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📝 Update README timestamp"
+          branch: main
+          file_pattern: "README.md"
