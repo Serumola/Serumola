@@ -186,7 +186,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Serumola&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=00f5ff&currStreakLabel=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=Serumola&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=00f5ff&currStreakLabel=ffffff"/>
 
 </div>
 
