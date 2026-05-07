@@ -82,9 +82,9 @@ philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serumola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serumola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22c55e&icon_color=00f5ff&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serumola&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serumola&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22c55e&text_color=ffffff&cache_seconds=1800"/>
 
 </div>
 
