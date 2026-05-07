@@ -135,21 +135,21 @@ mindset:
 <div align="center">
 
 <a href="https://github.com/Serumola/ReMmogo">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Serumola&repo=ReMmogo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&icon_color=22c55e"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Serumola&repo=ReMmogo&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Serumola/Task-manager">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Serumola&repo=Task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&icon_color=22c55e"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Serumola&repo=Task-manager&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Serumola/keycloak-app">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Serumola&repo=keycloak-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&icon_color=22c55e"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Serumola&repo=keycloak-app&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Serumola/gallery-website">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Serumola&repo=gallery-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&icon_color=22c55e"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Serumola&repo=gallery-website&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
