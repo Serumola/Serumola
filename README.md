@@ -76,11 +76,13 @@ mindset:
 
 # GITHUB ANALYTICS
 
+# GITHUB ANALYTICS
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serumola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=22c55e&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Serumola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serumola&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Serumola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
