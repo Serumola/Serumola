@@ -100,7 +100,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Serumola/Serumola/output/snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Serumola/Serumola/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
